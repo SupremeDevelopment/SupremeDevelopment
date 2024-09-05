@@ -12,13 +12,7 @@
   <a href="#."><img src="https://skillicons.dev/icons?i=typescript,javascript,php,java,python,html,css,minecraft" alt="Technologies"></a>
   
   <p>و همچنین ما از این تکنولوژی‌ها و برنامه‌ها استفاده می‌کنیم:</p>
-  <a href="#."><img src="https://devicon.dev/devicon.git/icons/discord/discord-original.svg" alt="Discord">
-  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" alt="GitHub">
-  <img src="https://devicon.dev/devicon.git/icons/vscode/vscode-original.svg" alt="VS Code">
-  <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio">
-  <img src="https://devicon.dev/devicon.git/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA">
-  <img src="https://devicon.dev/devicon.git/icons/webstorm/webstorm-original.svg" alt="WebStorm">
-  <img src="https://devicon.dev/devicon.git/icons/phpstorm/phpstorm-original.svg" alt="PHPStorm"></a>
+  <a href="#."><img src="https://skillicons.dev/icons?i=discord,github,vscode,visualstudio,intellijidea,webstorm,phpstorm" alt="Tools and Technologies"></a>
 
   <h1>🚀 پروژه‌ها</h1>
   <p>ما روی انواع پروژه‌ها از برنامه‌های وب فول‌استک تا کتابخانه‌ها و پلاگین‌های پویا کار می‌کنیم. هر پروژه بازتابی از تعهد ما به کیفیت کد و استفاده از روش‌های مدرن است.</p>
